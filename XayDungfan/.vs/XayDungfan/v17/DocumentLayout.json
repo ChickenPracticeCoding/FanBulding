@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\XayDungfan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD83F9C0-2D27-43C4-86DE-547931768E2D}|XayDungfan\\XayDungfan.csproj|e:\\hoctap\\prj_github\\codegymex\\xaydungfan\\xaydungfan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD83F9C0-2D27-43C4-86DE-547931768E2D}|XayDungfan\\XayDungfan.csproj|solutionrelative:xaydungfan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD83F9C0-2D27-43C4-86DE-547931768E2D}|XayDungfan\\XayDungfan.csproj|e:\\hoctap\\prj_github\\codegymex\\xaydungfan\\xaydungfan\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD83F9C0-2D27-43C4-86DE-547931768E2D}|XayDungfan\\XayDungfan.csproj|solutionrelative:xaydungfan\\fan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fan.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\XayDungfan\\XayDungfan\\fan.cs",
+              "RelativeDocumentMoniker": "XayDungfan\\fan.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\XayDungfan\\XayDungfan\\fan.cs",
+              "RelativeToolTip": "XayDungfan\\fan.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwCEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:34:27.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\XayDungfan\\XayDungfan\\Program.cs",
+              "RelativeDocumentMoniker": "XayDungfan\\Program.cs",
+              "ToolTip": "E:\\Hoctap\\Prj_Github\\CodeGymEX\\XayDungfan\\XayDungfan\\Program.cs",
+              "RelativeToolTip": "XayDungfan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:32:21.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
